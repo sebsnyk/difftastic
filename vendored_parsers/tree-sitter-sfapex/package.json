@@ -17,7 +17,7 @@
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.10",
     "nan": "^2.16.0",
-    "node-pre-gyp-github": "^1.4.4"
+    "node-pre-gyp-github": "^2.0.0"
   },
   "devDependencies": {
     "tree-sitter-cli": "0.20.6"
